@@ -24,7 +24,7 @@
 
 ## Core Stack
 PyTorch · OpenCV · YOLO · Faster R-CNN · U-Net
-MediaPipe · DeepSORT · ONNX · Docker · GCP
+· MediaPipe · DeepSORT · ONNX · Docker · GCP
 
 ---
 
