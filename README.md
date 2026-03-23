@@ -1,6 +1,6 @@
 # Computer Vision Engineer · Deep Learning · PyTorch
 
-2+ years building production-grade CV systems.
+3 years building production-grade CV systems.
 
 ---
 
