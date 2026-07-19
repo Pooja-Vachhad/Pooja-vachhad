@@ -14,7 +14,6 @@
 ---
 
 ## Numbers
-- 15+ production CV projects published
 - 7+ hackathons (Sep 2025 – Feb 2026)
 - 96.34% Dice Score — Lung Segmentation
 - 99.6% Accuracy — Industrial Defect Detection
