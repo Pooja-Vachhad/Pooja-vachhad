@@ -27,8 +27,5 @@ PyTorch · OpenCV · YOLO · Faster R-CNN · U-Net
 
 ---
 
-## Currently
-Open to Computer Vision Intern roles
-📍 Noida, India · Available immediately
 
----
+
